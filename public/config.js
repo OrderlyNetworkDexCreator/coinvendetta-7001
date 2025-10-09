@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/vendettadotfun",
   "VITE_SEO_SITE_NAME": "CoinVendetta",
   "VITE_SEO_SITE_DESCRIPTION": "Get your revenge from the crypto markets",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/coinvendetta-7001/",
+  "VITE_SEO_SITE_URL": "https://coinvendetta.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@vendettadotfun",
